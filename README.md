@@ -21,15 +21,6 @@ The project provisions an S3 bucket, enables static website hosting, configures 
 * HTML
 * CSS
 
-## Project Structure
-
-project-static-website/
-│
-├── main.tf
-├── index.html
-├── style.css
-├── .gitignore
-├── README.md
 
 ## Prerequisites
 
